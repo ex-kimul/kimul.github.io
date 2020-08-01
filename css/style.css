@@ -27,15 +27,6 @@ nav{
     margin-top: 40px;
 }
 
-a{
-    color: white;
-}
-
-.card-body a{
-    color: black;
-}
-
-
 #judul{
     padding-bottom: 20px;
 }
@@ -47,6 +38,10 @@ hr{
 
 section{
     padding-top: 80px;
+}
+
+.card-link{
+    color: chocolate;
 }
 
 footer{
