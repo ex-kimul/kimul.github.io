@@ -16,6 +16,11 @@ nav{
     margin-right: 30px;
 }
 
+.title-content{
+    margin-top: 60px;
+    
+}
+
 .avatar{
     vertical-align: middle;
     width: 150px;
@@ -43,15 +48,6 @@ section{
 .card-link{
     color: chocolate;
 }
-
-.card-columns {
-    @include media-breakpoint-only(lg) {
-      column-count: 4;
-    }
-    @include media-breakpoint-only(xl) {
-      column-count: 5;
-    }
-  }
 
 footer{
     background-color: #1B1B1B;
