@@ -24,6 +24,10 @@ nav{
     font-style: normal;
 }
 
+.content{
+    margin-top: 40px;
+}
+
 .title-content{
     margin-top: 60px;
 }
